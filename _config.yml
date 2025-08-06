@@ -28,8 +28,7 @@ twitter_username: izzyjorgensen
 github_username:  izzyjorgensen
 
 # Build settings
-# theme: hitchens-theme
-# ignore_theme_config: true  # optional, depending on your setup
+ theme: minimal
 plugins:
   - jekyll-feed
 

@@ -28,7 +28,7 @@ twitter_username: izzyjorgensen
 github_username:  izzyjorgensen
 
 # Build settings
- theme: minimal
+theme: minimal
 plugins:
   - jekyll-feed
 

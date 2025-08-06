@@ -1,3 +1,19 @@
+# Jekyll build artifacts
+_site/
+
+# macOS system files
+.DS_Store
+assets/.DS_Store
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# Bundler & environment files
+.bundle/
+vendor/
+.env
 _site
 .sass-cache
 .jekyll-cache

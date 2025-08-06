@@ -38,7 +38,9 @@ layout: null
     {{ content }}
 
     {% unless site.hide_search %}
+      {% comment %}
       {% include search.html %}
+      {% endcomment %}
     {% endunless %}
 
     {% include menu.html %}

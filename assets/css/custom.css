@@ -1,0 +1,39 @@
+/* --- Isabel's Desert Theme 🌵🐪 --- */
+
+body {
+  background-color: #fef6e4;   /* Sand */
+  color: #333333;              /* Desert charcoal */
+  font-family: Georgia, serif;
+  line-height: 1.7;
+  padding: 1rem;
+}
+
+a {
+  color: #2a9d8f;              /* Cactus green */
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  color: #e76f51;              /* Dry clay */
+}
+
+nav {
+  background-color: #bce3dc;   /* Dusty turquoise */
+  border-radius: 5px;
+  padding: 10px 15px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: #333333;
+  margin: 0 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+h1, h2, h3 {
+  color: #f4a261;              /* Desert rose/salmon */
+  font-family: 'Georgia', serif;
+}

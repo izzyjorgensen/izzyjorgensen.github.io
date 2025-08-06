@@ -21,14 +21,15 @@
 title: Isabel Jorgensen
 email: isabeljorgensen97@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my research website, where I share my latest publications, data visualizations, blog posts, and more. My background is in researching the social and ecological factors affecting a type of lake found around the world called a terminal lake, or a lake with no outlet. These lakes are usually found in deserts and are also often salty. I focus on the terminal lakes of the western United States, which are facing declines because of human water diversions, aridification, and other basin activities. My current interests are specifically on their bird populations, landowners in their surrounding basins, and the NGOs working to protect both.
+  A researcher using social and ecological data to understand how salty lakes die.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: izzyjorgensen
 github_username:  izzyjorgensen
 
 # Build settings
-theme: minima
+theme: hitchens-theme
+ignore_theme_config: true  # optional, depending on your setup
 plugins:
   - jekyll-feed
 

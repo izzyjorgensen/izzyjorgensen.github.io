@@ -4,6 +4,10 @@ title: My CV
 permalink: /cv/
 ---
 
-Here’s my CV. You can link to a PDF like:
+You can see my academic CV here:
 
-[Download CV (PDF)](/Users/isabeljorgensen/Desktop/Personal website/Public_JorgensenCV)
+[Download CV (PDF)](/assets/files/Public_JorgensenCV.pdf)
+
+## 📃 Embedded CV Viewer
+
+<iframe src="/assets/files/isabel-jorgensen-cv.pdf" width="100%" height="600px"></iframe>

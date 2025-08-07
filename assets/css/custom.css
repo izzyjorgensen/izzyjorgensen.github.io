@@ -1,9 +1,9 @@
 /* --- Isabel's Desert Theme 🌵🐪 --- */
 
 body {
-  background-color: #fef6e4;   /* Sand */
+  background-color: #f2eadf;   /* Sand */
   color: #333333;              /* Desert charcoal */
-  font-family: Georgia, serif;
+  font-family: 'Arial', sans-serif;
   line-height: 1.7;
   padding: 1rem;
 }
@@ -19,7 +19,7 @@ a:hover {
 }
 
 nav {
-  background-color: #bce3dc;   /* Dusty turquoise */
+  background-color: #a2e1db;   /* teal */
   border-radius: 5px;
   padding: 10px 15px;
   margin-bottom: 20px;
@@ -34,6 +34,36 @@ nav a {
 }
 
 h1, h2, h3 {
-  color: #f4a261;              /* Desert rose/salmon */
-  font-family: 'Georgia', serif;
+  color: #ffdbcc;              /* coral */
+  font-family: 'Arial', sans-serif;
 }
+
+/* === HERO IMAGE === */
+.hero img {
+  width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+  border-bottom: 4px solid #e76f51;
+}
+
+/* === NAV BAR === */
+.navbar {
+  background-color: #bce3dc;
+  padding: 10px;
+  text-align: center;
+  font-family: sans-serif;
+  margin-bottom: 20px;
+}
+
+.navbar a {
+  margin: 0 15px;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #333;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: #e76f51;
+}
+

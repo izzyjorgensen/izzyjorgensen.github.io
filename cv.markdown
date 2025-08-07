@@ -10,4 +10,4 @@ You can see my academic CV here:
 
 ## 📃 Embedded CV Viewer
 
-<iframe src="/assets/files/isabel-jorgensen-cv.pdf" width="100%" height="600px"></iframe>
+<iframe src="/assets/files/Public_JorgensenCV.pdf" width="100%" height="600px"></iframe>

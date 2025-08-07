@@ -72,10 +72,10 @@ h1, h2, h3 {
 }
 
 .email-button {
-  background-color: #bce3dc; /* Cactus teal */
+  background-color: #c15b43; /* Cactus teal */
   color: #333;
 }
 
 .email-button:hover {
-  background-color: #6ccac1;
+  background-color: #c15b43;
 }

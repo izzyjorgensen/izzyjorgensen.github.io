@@ -1,44 +1,31 @@
 /* --- Isabel's Desert Theme 🌵🐪 --- */
 
 body {
-  background-color: #f2eadf;   /* Sand */
-  color: #333333;              /* Desert charcoal */
-  font-family: 'Arial', sans-serif;
-  line-height: 1.7;
+  background-color: #f2eadf;          /* Sand */
+  color: #333333;                     /* Desert charcoal */
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.8;
   padding: 1rem;
 }
 
+/* === Links === */
 a {
-  color: #2a9d8f;              /* Cactus green */
+  color: #a2e1db;                     /* Cactus green */
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 a:hover {
-  color: #e76f51;              /* Dry clay */
+  color: #e76f51;                     /* Dry clay */
 }
 
-nav {
-  background-color: #a2e1db;   /* teal */
-  border-radius: 5px;
-  padding: 10px 15px;
-  margin-bottom: 20px;
-  text-align: center;
-}
-
-nav a {
-  color: #333333;
-  margin: 0 12px;
-  font-weight: bold;
-  text-transform: uppercase;
-}
-
+/* === Headings === */
 h1, h2, h3 {
-  color: #ffdbcc;              /* coral */
-  font-family: 'Arial', sans-serif;
+  color: #333333;
+  font-family: 'Lato', sans-serif;
 }
 
-/* === HERO IMAGE === */
+/* === Hero Image === */
 .hero img {
   width: 100%;
   max-height: 300px;
@@ -46,13 +33,14 @@ h1, h2, h3 {
   border-bottom: 4px solid #e76f51;
 }
 
-/* === NAV BAR === */
+/* === Nav Bar === */
 .navbar {
-  background-color: #bce3dc;
+  background-color: #bce3dc;         /* Light pastel turquoise */
   padding: 10px;
   text-align: center;
-  font-family: sans-serif;
+  font-family: 'Lato', sans-serif;
   margin-bottom: 20px;
+  border-radius: 5px;
 }
 
 .navbar a {
@@ -66,4 +54,3 @@ h1, h2, h3 {
 .navbar a:hover {
   color: #e76f51;
 }
-

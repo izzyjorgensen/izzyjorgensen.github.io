@@ -9,12 +9,10 @@ Hi, I'm Isabel Jorgensen. I'm a researcher and outdoors enthusiast passionate ab
 
 ## Research Interests
 
-- Saline lake ecosystems (especially migratory birds!)
+- Remote and extreme environments, especially saline lake ecosystems
 - Remote sensing & citizen science
-- Public and private interests, mainly whose public?
-- Organizational ecology to interpret NGO activity
+- Public and private interests, mainly which public?
+- Organizational ecology as a framework for understanding NGO advocacy strategies
 
 ---
-
-## Field Photos
 

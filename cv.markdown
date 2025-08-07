@@ -1,10 +1,10 @@
 ---
-layout: page
-title: My CV
+layout: default
+title: CV
 permalink: /cv/
 ---
 
-You can see my academic CV here:
+## 📄 Download CV
 
 [Download CV (PDF)](/assets/files/Public_JorgensenCV.pdf)
 

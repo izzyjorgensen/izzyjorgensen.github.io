@@ -1,4 +1,6 @@
 # The Site Configuration
+inject_head:
+  - head/custom.html
 
 # Import the theme
 theme: jekyll-theme-chirpy
